@@ -31,6 +31,15 @@ O jogo é composto por um pinguim que está pescando no gelo, por meio de um bur
 
 ## Diagrama de Casos de Uso
 
+- Para iniciar o jogo, o usuário deve clicar no botão "Iniciar" no menu principal. 
+- O jogo vai iniciar com um pinguim com 3 vidas na posição inicial e após 1 segundo, o gerador de animais deve ser iniciado, com uma taxa de geração de 2 segundos por peixe e 4 segundos por água viva.
+- O jogador deve mover o mouse para cima e para baixo e a linha de pesca deve seguir o movimento vertical do mouse.
+- Quando a ponta da linha de pesca encostar em um peixe, o peixe deve ser pescado e o jogador ganha um ponto.
+- Quando uma água viva encostar em qualquer parte da linha, o pinguim leva um choque e perde uma vida.
+- Se o jogador atingir 20 peixes, o jogo termina e o jogador ganha a partida.
+- Se o jogador perder todas as suas vidas, o jogo termina e o jogador perde a partida, podendo reiniciar o jogo clicando no botão "Reiniciar" no menu principal.
+- A cada 5 peixes pescados, a taxa de geração dos animais deve ser diminuída em 0.5 segundos, até um limite de 0.5 segundos por peixe e 1 segundo por água viva.
+
 Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
  
 ## Diagrama de Domínio do problema
