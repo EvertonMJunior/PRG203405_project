@@ -2,13 +2,20 @@
      width="30%"
      style="padding: 10px">
 
-# << Título do projeto >>
+# Pinguim O Pescador
 
-## << Descrição breve do domínio do problema >>
+<div align="center">
+<img src="img/club-penguin.jpg"
+     width="60%"
+     style="padding: 10px;">
+     </div>
 
-> Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
-> 
-> Aluno: Nome do aluno  
+## Descrição breve do domínio do problema
+
+> Esse repositório é destinado para o desenvolvimento do projeto final da disciplina PRG22107 - Programação orienta a objeto. O projeto consiste em um jogo de pesca inspirado em um dos minijogos do Club Penguin.
+>
+> Alunos: Everton Marcelino Junior e Sofia Maia Lee
+>
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
