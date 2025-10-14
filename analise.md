@@ -31,7 +31,7 @@ O jogo é composto por um pinguim que está pescando no gelo, por meio de um bur
 
 ## Diagrama de Casos de Uso
 
-- Para iniciar o jogo, o usuário deve clicar no botão "Iniciar" no menu principal. 
+- Para iniciar o jogo, o usuário deve clicar no botão "Jogar" no menu principal. 
 - O jogo vai iniciar com um pinguim com 3 vidas na posição inicial e após 1 segundo, o gerador de animais deve ser iniciado, com uma taxa de geração de 2 segundos por peixe e 4 segundos por água viva.
 - O jogador deve mover o mouse para cima e para baixo e a linha de pesca deve seguir o movimento vertical do mouse.
 - Quando a ponta da linha de pesca encostar em um peixe, o peixe deve ser pescado e o jogador ganha um ponto.
@@ -47,6 +47,12 @@ Apresentar o diagram de casos de uso, identificando as funcionalidades do sistem
 <div align="center">
 <img src="img/diagrama-uml-dominio.png" width="60%" style="padding: 10px; margin-left: auto; margin-right: auto">
 </div>
+
+## Análise de caso de uso
+
+### Caso de uso 1: Iniciar o jogo
+
+A análise do caso de uso 1 pode ser acessada [aqui](usecase.md).
 
 
 <div align="center">
