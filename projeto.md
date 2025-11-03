@@ -9,6 +9,12 @@
 <img src="https://github.com/user-attachments/assets/c598911f-e96d-4dba-9544-09b3b88d7c4f" width="60%" style="padding: 10px; margin-left: auto; margin-right: auto">
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9c642ad3-4ee0-43dc-82a0-d77ca1636af1" width="60%" style="padding: 10px; margin-left: auto; margin-right: auto">
+</div>
+
 [Retroceder](analise.md) | [Avançar](implementacao.md)
 
 </div>
