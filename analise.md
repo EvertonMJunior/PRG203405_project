@@ -39,8 +39,10 @@ O jogo é composto por um pinguim que está pescando no gelo, por meio de um bur
 - Se o jogador atingir 20 peixes, o jogo termina e o jogador ganha a partida.
 - Se o jogador perder todas as suas vidas, o jogo termina e o jogador perde a partida, podendo reiniciar o jogo clicando no botão "Reiniciar" no menu principal.
 - A cada 5 peixes pescados, a taxa de geração dos animais deve ser diminuída em 0.5 segundos, até um limite de 0.5 segundos por peixe e 1 segundo por água viva.
-
-Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
+  
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9c642ad3-4ee0-43dc-82a0-d77ca1636af1" width="60%" style="padding: 10px; margin-left: auto; margin-right: auto">
+</div>
  
 ## Diagrama de Domínio do problema
 
