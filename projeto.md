@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/c598911f-e96d-4dba-9544-09b3b88d7c4f" width="60%" style="padding: 10px; margin-left: auto; margin-right: auto">
+<img src="./img/diagrama-uml-classes.png" width="60%" style="padding: 10px; margin-left: auto; margin-right: auto">
 </div>
 
 <br/>
