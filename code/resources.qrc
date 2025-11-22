@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>assets/penguin_fishing.png</file>
+        <file>assets/penguin_launchscreen.png</file>
+        <file>assets/fish_ltr.png</file>
+        <file>assets/fish_rtl.png</file>
+        <file>assets/jellyfish.png</file>
+        <file>assets/fishing_line.png</file>
+        <file>assets/worm.png</file>
+        <file>assets/game_background.png</file>
+        <file>assets/BUMBASTIKA.TTF</file>
+    </qresource>
+</RCC>
+
