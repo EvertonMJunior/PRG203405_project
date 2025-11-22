@@ -61,6 +61,8 @@ Quando o jogador clica em "JOGAR NOVAMENTE", o jogo é reiniciado, sendo o estad
 <img src="img/tests/tela_inicial.jpeg" width="60%" style="padding: 10px; margin-left: auto; margin-right: auto">
 </div>
 
+[Clique aqui para assistir à demonstração do nosso jogo](https://youtu.be/bMThfFt74gE?si=Wztq7aDw0d7qwPIa)
+
 <div align="center">
 
 [Retroceder](implementacao.md) | [Início](README.md)
