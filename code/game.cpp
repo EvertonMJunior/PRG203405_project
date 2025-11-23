@@ -62,6 +62,8 @@ void Game::reset() {
   current_jelly_rate = 4.0;
   status = Status::Waiting;
 
+  animal_generator->setGenerationRate(current_fish_rate, current_jelly_rate);
+
   emit fishCaughtChanged(fish_caught);
   emit livesChanged(remaining_lives);
   emit statusChanged(status);
