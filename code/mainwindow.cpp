@@ -135,6 +135,7 @@ void MainWindow::createGameScreen()
     gameView->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     gameView->setFixedSize(1000, 720);
     gameView->setSceneRect(0, 0, 1000, 720);
+    gameView->setMouseTracking(true);
     
     connect(gameScene, &GameScene::gameWon, this, &MainWindow::onGameWon);
     connect(gameScene, &GameScene::gameLost, this, &MainWindow::onGameLost);
