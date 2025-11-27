@@ -17,6 +17,12 @@
 
 A implementação segue o padrão **Model-View-Controller (MVC)**, separando claramente estado, interface e lógica do jogo.
 
+### Diagrama de Classes Implementadas
+
+<div align="center">
+<img src="./img/diagrama-uml-final.jpeg" width="100%" style="padding: 10px; margin-left: auto; margin-right: auto">
+</div>
+
 ### Model - Estado e Lógica Central
 
 O singleton *Game* gerencia:
